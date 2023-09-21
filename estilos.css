@@ -31,3 +31,25 @@ margin:0 auto;
 #container h1 {
     font-size: 20px;
 }
+
+
+#cabecera{
+
+    background-color: blue;
+    color:blanchedalmond;
+    margin: 0;
+    padding:0.5rem;
+    box-shadow: 10px 6px 10px black;
+    
+}
+
+
+#cabecera #tagline {
+    background-color: blue;
+    padding: 0 0 0 1rem;
+    font-weight: normal;
+    font-size: 0.8em;
+
+
+
+}
