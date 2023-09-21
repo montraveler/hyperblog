@@ -8,10 +8,26 @@ body {
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: brown;
+    
+    padding:0 ;
+    font-size: 16px;
 
 }
 
 
 p {
     font-size: 30px;
+}
+
+#container{
+width:70%;
+padding:1em;
+text-align:left;
+border:1px solid white;
+margin:0 auto;
+
+}
+
+#container h1 {
+    font-size: 20px;
 }
